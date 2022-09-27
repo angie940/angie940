@@ -1,18 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
 
-yupi! test
-
-<!--
-**angie940/angie940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on technical writing.
+- 🔭 I’m currently working on my writing portfolio.
 - 🌱 I’m currently learning technical writing.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on software development projects.
+- 🤔 I’m looking for help with getting on my first project.
+- 💬 Ask me about anything.
+- 📫 How to reach me: xym@gmail.com
+- 😄 Pronouns: she
+- ⚡ Fun fact: I like bouldering.
